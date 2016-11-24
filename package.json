@@ -1,0 +1,19 @@
+{
+  "name": "crawler",
+  "version": "1.0.0",
+  "description": "crawl some info from many pages",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "crawler"
+  ],
+  "author": "heysdc",
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "node-xlsx": "^0.7.4"
+  }
+}
